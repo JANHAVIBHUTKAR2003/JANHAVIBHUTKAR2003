@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JANHAVIBHUTKAR2003
 - 👀 I’m interested in Full Stack Devlopment
 - 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on Frontend - Project
+- 💞️ Ass Software engineer at Tech Mahindra
 
 
 <!---
